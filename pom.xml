@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>e-commerce-common</module>
+        <module>e-commerce-mvc-config</module>
     </modules>
 
     <parent>
